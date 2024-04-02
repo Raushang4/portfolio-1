@@ -1,4 +1,4 @@
-# Qurban's Portfolio
+# Raushan Portfolio
 
 Welcome to the repository for my personal portfolio! This portfolio is built using Vite React, TypeScript, Tailwind CSS, Module CSS, Three.js, React Awesome Reveal, and SVG icons.
 

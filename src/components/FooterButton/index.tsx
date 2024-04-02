@@ -15,7 +15,7 @@ export function FooterButton({
   onClick,
 }: FooterButtonProps): JSX.Element {
   return typeof link === "string" && link.length > 0 ? (
-    <a href="tel:+916204789892">
+    <a href="tel:+919304995677">
       <button
         onClick={onClick}
         className="hover:text-primary hover:scale-125 transition-[color,transform] font-bold dark:text-gray-500"

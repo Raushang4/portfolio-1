@@ -16,7 +16,7 @@ export function About(): JSX.Element {
           About me
         </h2>
         <div className="text-lg">
-          Hello there! I&apos;m Qurban, a passionate individual whose love for
+          Hello there! I&apos;m Raushan kumar, a passionate individual whose love for
           technology blossomed after my high school journey.
           <br />
           <br />
